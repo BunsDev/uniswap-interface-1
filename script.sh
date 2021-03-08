@@ -2,7 +2,9 @@
 
 yarn
 
-cp changed-node-modules/dist node_modules/@uniswap/sdk/dist
+rm -r node_modules/@uniswap/sdk/dist/
+
+cp -r changed-node-modules/dist/ node_modules/@uniswap/sdk/dist/
 
 yarn start
 
