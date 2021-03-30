@@ -1,6 +1,6 @@
 To test this forked version of the interface, install dependancies, replace the file `node_modules/@uniswap/sdk/dist/` and start a development build by running `./script.sh`. 
 
-Request some AUT (ETH) for the Autontiy Bakerloo testnet [here][https://faucet.bakerloo.autonity.network/]
+Request some AUT (ETH) for the Autontiy Bakerloo testnet [here](https://faucet.bakerloo.autonity.network/)
 Bakerloo testnet Documentation: https://bakerloo.autonity.network/index.html
 
 
